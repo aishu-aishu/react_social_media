@@ -1,6 +1,6 @@
-import React, {useState, useEffect} from 'react';
-import {Routes, Route, useNavigate} from 'react-router-dom'
-import format from 'date-fns/format';
+import React from 'react';
+import {Routes, Route} from 'react-router-dom'
+// import format from 'date-fns/format';
 import Header from './Header';
 import Nav from './Nav';
 import Home from './Home';
@@ -11,10 +11,10 @@ import About from './About';
 import Missing from './Missing';
 import Footer from './Footer';
 // import PostLayout from './PostLayout';
-import api from './api/posts';
+// import api from './api/posts';s
 import EditPost from './EditPost';
-import useWindowSize from './hooks/useWindowSize';
-import useAxiosFetch from './hooks/useAxiosFetch';
+// import useWindowSize from './hooks/useWindowSize';
+// import useAxiosFetch from './hooks/useAxiosFetch';
 import {DataProvider} from './context/DataContext';
 
 function App() {
