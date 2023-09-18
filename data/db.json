@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "title": "newest ",
+      "dateTime": "September 18, 2023 7:10:40 PM",
+      "body": "new posting"
+    },
+    {
+      "id": 8,
+      "title": "Sample post",
+      "dateTime": "September 18, 2023 7:10:28 PM",
+      "body": "Post for sample purpose"
+    }
+  ]
+}
